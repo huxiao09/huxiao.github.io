@@ -1,46 +1,37 @@
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
 ### 教育经历
 2017.09至今  北京化工大学  自动化专业
-+专业排名：1/152     综合排名：1/152
-+成绩平均分：94.26   大学英语六级：596
+```markdown
+  专业排名：1/152     综合排名：1/152
+  成绩平均分：94.26   大学英语六级：596
+```
 
 ### 科研经历
-+2019.07至今  本校科创项目/国家级大创  成员
-+研究方向：基于数据驱动的故障诊断分类算法
-+2019.08至今  中科院自动化所复杂系统管理与控制国家重点实验室  实习
-+研究方向：Unikernel虚拟化技术与边缘计算
-+2020.06至今  清华大学自动化系智网中心  实习
-+研究方向：数据中心节能仿真优化方法
-+2019.04-2019.08  全国大学生电子设计竞赛  队长
-+研究方向：四旋翼无人机飞行控制
+2019.07至今  本校科创项目/国家级大创  成员
+```markdown
+  研究方向：基于数据驱动的故障诊断分类算法
+```
+
+2019.08至今  中科院自动化所复杂系统管理与控制国家重点实验室  实习
+```markdown
+  研究方向：Unikernel虚拟化技术与边缘计算
+```
+
+2020.06至今  清华大学自动化系智网中心  实习
+```markdown
+  研究方向：数据中心节能仿真优化方法
+```
+
+2019.04-2019.08  全国大学生电子设计竞赛  队长
+```markdown   
+  研究方向：四旋翼无人机飞行控制
+```
 
 ### 论文成果
-+[1] Yan-Lin He, Yang Zhao, **Xiao Hu**, Xiao-Na Yan, Qun-Xiong Zhu, Yuan Xu. Fault diagnosis using novel 
+1. Yan-Lin He, Yang Zhao, **Xiao Hu**, Xiao-Na Yan, Qun-Xiong Zhu, Yuan Xu. Fault diagnosis using novel 
 AdaBoost based discriminant locality preserving projection with resamples. Engineering Applications 
 of Artificial Intelligence (二区 SCI，IF=4.201). 2020, 103631.
-+[2] **Xiao Hu**, Yang Zhao, Yuan Xu, Yan-Lin He, Qun-Xiong Zhu. Novel L2-Discriminant Locality Preserving 
+2. **Xiao Hu**, Yang Zhao, Yuan Xu, Yan-Lin He, Qun-Xiong Zhu. Novel L2-Discriminant Locality Preserving 
 Projection integrated with AdaBoost and its application to fault diagnosis. DDCLS'20. (EI 会议)
 
 ### 奖励情况
