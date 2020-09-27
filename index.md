@@ -1,3 +1,5 @@
+## huxiao's homepage
+You can browse my github by clicking on this link: [胡潇的github](https://github.com/huxiao09)
 
 ### 教育经历
 2017.09至今  北京化工大学  自动化专业
