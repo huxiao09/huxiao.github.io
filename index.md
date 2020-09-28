@@ -13,6 +13,7 @@ You can browse my github by clicking on this link: [胡潇的github](https://git
 ```markdown
   研究方向：基于数据驱动的故障诊断分类算法
 ```
+<img src=https://github.com/huxiao09/huxiao.github.io/blob/pictures/re.png>
 
 2019.08至今  中科院自动化所复杂系统管理与控制国家重点实验室  实习
 ```markdown
